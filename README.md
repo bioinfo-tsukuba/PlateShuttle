@@ -28,10 +28,12 @@ This repository contains all necessary files to build and operate your own Plate
 
 ### Prerequisites
 All are written in [assembly_v1.pdf](./docs/assembly/assembly_v1.pdf)
-- [Opentrons-2 platform](https://opentrons.com/products/ot-2-robot) 
+- [Opentrons-2 platform (opentrons)](https://opentrons.com/products/ot-2-robot) 
+- [Absorbane 96 (byonoy)](https://byonoy.com/absorbance-96/)
 - 3D printer (or access to 3D printing services)
 - Laser Cutter (or access to laser cutting services)
-- Some open-source electrical devices
+- Some open-source electrical boards/parts`a
+- Control computer (Mac, Windows, Linux)
 - Python 3.6 or higher
 
 ### Assembly/Installation
