@@ -63,5 +63,9 @@ PlateShuttle/
 └── README.md               # This file
 ```
 
+# Developers
+- Design/Dev HW and SW: Hiroki Noguchi, RIKEN
+- Bioinformatics Lab Members, Faculty of Medicine, University of Tsukuba
+
 # Acknowledgments
 - Opentrons community for inspiration and support
